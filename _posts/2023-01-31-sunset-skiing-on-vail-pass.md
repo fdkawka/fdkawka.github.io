@@ -7,18 +7,18 @@ tags: [skiing, Vail Pass, sunset]
 excerpt: "A quick after-work ski at Vail Pass chasing alpenglow, powder, and moonlight."
 author_profile: true
 header:
-  overlay_image: /assets/images/2023-01-31/img_9408.jpg
+  overlay_image: /assets/images/2023-01-31/IMG_9408.JPG
   overlay_filter: 0.4
   caption: "Moonrise while chasing the sunset"
 ---
 
 Carolyn and I decided to take advantage of a sunny, calm and clear day (rare this season) and pop up to Vail Pass after work to score some evening turns and exercise.
 
-![Moonrise while chasing the sunset](https://fdkawka.com/wp-content/uploads/2023/02/img_9408.jpg)
+![Moonrise while chasing the sunset]()
 
 Temps were quite cold, below 10°F, as we got started. The sun was setting, but we figured we could make it out to a less-trafficked zone for some solitude and fresh snow.
 
-![Holy Cross and the Sawatch looking mighty righteous!](https://fdkawka.com/wp-content/uploads/2023/02/img_1646.jpg)
+![Holy Cross and the Sawatch looking mighty righteous!](/assets/images/2023-01-31/IMG_9410.JPG)
 
 We hadn’t really expected or planned for an epic sunset ski, so the energy was high as we continued up. A whole lot of hoops and hollers!
 
