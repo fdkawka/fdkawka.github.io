@@ -7,7 +7,7 @@ tags: [skiing, Vail Pass, sunset]
 excerpt: "A quick after-work ski at Vail Pass chasing alpenglow, powder, and moonlight."
 author_profile: true
 header:
-  overlay_image: https://fdkawka.com/wp-content/uploads/2023/02/img_9408.jpg
+  overlay_image: /assets/images/2023-01-31/img_9408.jpg
   overlay_filter: 0.4
   caption: "Moonrise while chasing the sunset"
 ---
