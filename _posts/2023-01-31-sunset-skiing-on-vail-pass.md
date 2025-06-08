@@ -12,6 +12,8 @@ header:
   caption: "Sunset over the Sawatch Range"
 ---
 
+#### January 31st, 2023 - Vail Pass, CO
+
 Carolyn and I decided to take advantage of a sunny, calm and clear day (rare this season) and pop up to Vail Pass after work to score some evening turns and exercise.
 
 ![](/assets/images/2023-01-31/IMG_9408.JPG)
